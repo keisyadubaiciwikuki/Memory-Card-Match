@@ -1,0 +1,6 @@
+{
+  "name": "Tebak Gambar Berpasangan",
+  "description": "Game kartu memori interaktif berbahasa Indonesia untuk melatih daya ingat dengan ilustrasi SVG penuh warna dan animasi balik kartu yang halus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
